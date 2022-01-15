@@ -3,12 +3,11 @@
 @import "variables.css";
 /* Components */
 @import "components/status-bar.css";
-
+@import "components/nav-bar.css";
+@import "components/sceen-header.css";
 /* Screens */
 @import "screens/login.css";
 
-/* nav-bar */
-@import "components/nav-bar.css";
 body {
   font-family: "Open Sans", sans-serif;
   height: 1000vh;
